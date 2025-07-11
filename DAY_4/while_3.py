@@ -7,3 +7,6 @@ for i in lista_numeros:
 
     else:
         break
+
+#imprime los valores de la lista
+#si el numero es negativo se interrumpe el programa
